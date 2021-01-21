@@ -1,0 +1,18 @@
+[2021-01-19 09:06:31,441] {{taskinstance.py:655}} INFO - Dependencies all met for <TaskInstance: MarketVol.create_tmp_folder 2021-01-18T12:00:00+00:00 [queued]>
+[2021-01-19 09:06:31,449] {{taskinstance.py:655}} INFO - Dependencies all met for <TaskInstance: MarketVol.create_tmp_folder 2021-01-18T12:00:00+00:00 [queued]>
+[2021-01-19 09:06:31,450] {{taskinstance.py:866}} INFO - 
+--------------------------------------------------------------------------------
+[2021-01-19 09:06:31,451] {{taskinstance.py:867}} INFO - Starting attempt 1 of 1
+[2021-01-19 09:06:31,452] {{taskinstance.py:868}} INFO - 
+--------------------------------------------------------------------------------
+[2021-01-19 09:06:31,462] {{taskinstance.py:887}} INFO - Executing <Task(BashOperator): create_tmp_folder> on 2021-01-18T12:00:00+00:00
+[2021-01-19 09:06:31,465] {{standard_task_runner.py:53}} INFO - Started process 226 to run task
+[2021-01-19 09:06:31,516] {{logging_mixin.py:112}} INFO - Running %s on host %s <TaskInstance: MarketVol.create_tmp_folder 2021-01-18T12:00:00+00:00 [running]> f2939e9d42e5
+[2021-01-19 09:06:31,532] {{bash_operator.py:82}} INFO - Tmp dir root location: 
+ /tmp
+[2021-01-19 09:06:31,535] {{bash_operator.py:105}} INFO - Temporary script location: /tmp/airflowtmpyr39v5d6/create_tmp_folder88o0m081
+[2021-01-19 09:06:31,536] {{bash_operator.py:115}} INFO - Running command: mkdir -p ${AIRFLOW_HOME}/tmp/data/`date +'%Y-%m-%d'`
+[2021-01-19 09:06:31,545] {{bash_operator.py:122}} INFO - Output:
+[2021-01-19 09:06:31,550] {{bash_operator.py:130}} INFO - Command exited with return code 0
+[2021-01-19 09:06:31,556] {{taskinstance.py:1048}} INFO - Marking task as SUCCESS.dag_id=MarketVol, task_id=create_tmp_folder, execution_date=20210118T120000, start_date=20210119T090631, end_date=20210119T090631
+[2021-01-19 09:06:41,433] {{logging_mixin.py:112}} INFO - [2021-01-19 09:06:41,432] {{local_task_job.py:103}} INFO - Task exited with return code 0

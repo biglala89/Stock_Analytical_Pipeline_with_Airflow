@@ -1,0 +1,156 @@
+[2021-01-13 17:22:36,574] {scheduler_job.py:181} INFO - Started process (PID=5781) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:22:36,575] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:22:36,577] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,576] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:22:36,601] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:22:36,603] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,602] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:22:36,615] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,614] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:22:36,616] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,616] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:22:36,617] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,616] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:22:36,621] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,620] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:22:36,626] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,626] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:22:36,627] {logging_mixin.py:103} INFO - [2021-01-13 17:22:36,627] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:22:36,638] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.068 seconds
+[2021-01-13 17:23:34,220] {scheduler_job.py:181} INFO - Started process (PID=5895) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:23:34,222] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:23:34,223] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,223] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:23:34,253] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:23:34,255] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,255] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:23:34,272] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,272] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:23:34,274] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,274] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:23:34,275] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,275] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:23:34,282] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,281] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:23:34,291] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,290] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:23:34,292] {logging_mixin.py:103} INFO - [2021-01-13 17:23:34,292] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:23:34,310] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.095 seconds
+[2021-01-13 17:23:59,493] {scheduler_job.py:181} INFO - Started process (PID=5988) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:23:59,495] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:23:59,496] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,496] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:23:59,522] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:23:59,524] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,524] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:23:59,539] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,538] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:23:59,540] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,540] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:23:59,541] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,541] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:23:59,546] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,546] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:23:59,554] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,553] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:23:59,555] {logging_mixin.py:103} INFO - [2021-01-13 17:23:59,554] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:23:59,567] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.078 seconds
+[2021-01-13 17:24:24,743] {scheduler_job.py:181} INFO - Started process (PID=6054) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:24:24,745] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:24:24,747] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,746] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:24:24,775] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:24:24,777] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,776] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:24:24,797] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,797] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:24:24,799] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,798] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:24:24,799] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,799] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:24:24,805] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,805] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:24:24,812] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,812] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:24:24,813] {logging_mixin.py:103} INFO - [2021-01-13 17:24:24,813] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:24:24,827] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.087 seconds
+[2021-01-13 17:24:51,021] {scheduler_job.py:181} INFO - Started process (PID=6092) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:24:51,023] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:24:51,024] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,024] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:24:51,051] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:24:51,053] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,053] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:24:51,067] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,067] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:24:51,069] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,069] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:24:51,070] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,070] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:24:51,075] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,075] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:24:51,082] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,082] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:24:51,083] {logging_mixin.py:103} INFO - [2021-01-13 17:24:51,082] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:24:51,094] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.077 seconds
+[2021-01-13 17:25:16,257] {scheduler_job.py:181} INFO - Started process (PID=6120) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:25:16,259] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:25:16,261] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,260] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:25:16,285] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:25:16,287] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,286] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:25:16,300] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,299] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:25:16,301] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,301] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:25:16,302] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,302] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:25:16,306] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,306] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:25:16,312] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,312] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:25:16,313] {logging_mixin.py:103} INFO - [2021-01-13 17:25:16,313] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:25:16,324] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.071 seconds
+[2021-01-13 17:25:42,548] {scheduler_job.py:181} INFO - Started process (PID=6148) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:25:42,550] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:25:42,551] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,551] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:25:42,575] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:25:42,577] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,577] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:25:42,591] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,590] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:25:42,592] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,592] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:25:42,593] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,593] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:25:42,598] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,597] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:25:42,604] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,604] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:25:42,605] {logging_mixin.py:103} INFO - [2021-01-13 17:25:42,604] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:25:42,617] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.073 seconds
+[2021-01-13 17:26:08,700] {scheduler_job.py:181} INFO - Started process (PID=6184) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:26:08,702] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:26:08,703] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,703] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:26:08,729] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:26:08,730] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,730] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:26:08,744] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,744] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:26:08,746] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,745] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:26:08,746] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,746] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:26:08,751] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,751] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:26:08,758] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,758] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:26:08,759] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,758] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:26:08,773] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.078 seconds
+[2021-01-13 17:26:34,981] {scheduler_job.py:181} INFO - Started process (PID=6220) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:26:34,983] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:26:34,984] {logging_mixin.py:103} INFO - [2021-01-13 17:26:34,984] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:26:35,018] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:26:35,020] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,019] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:26:35,036] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,036] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:26:35,038] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,037] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:26:35,041] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,040] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:26:35,047] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,047] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:26:35,055] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,055] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:26:35,056] {logging_mixin.py:103} INFO - [2021-01-13 17:26:35,056] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:26:35,071] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.095 seconds
+[2021-01-13 17:27:00,219] {scheduler_job.py:181} INFO - Started process (PID=6265) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:00,221] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:27:00,222] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,222] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:00,243] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:00,245] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,244] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:27:00,257] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,257] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:27:00,258] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,258] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:27:00,259] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,259] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:27:00,263] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,263] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:27:00,269] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,269] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:27:00,270] {logging_mixin.py:103} INFO - [2021-01-13 17:27:00,270] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:27:00,282] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.065 seconds
+[2021-01-13 17:27:24,430] {scheduler_job.py:181} INFO - Started process (PID=6303) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:24,432] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:27:24,434] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,433] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:24,458] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:24,460] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,459] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:27:24,473] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,472] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:27:24,474] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,474] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:27:24,475] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,475] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:27:24,480] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,480] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:27:24,486] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,486] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:27:24,487] {logging_mixin.py:103} INFO - [2021-01-13 17:27:24,486] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:27:24,497] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.072 seconds
+[2021-01-13 17:27:50,706] {scheduler_job.py:181} INFO - Started process (PID=6333) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:50,707] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:27:50,709] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,708] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:50,733] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:27:50,734] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,734] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:27:50,748] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,747] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:27:50,749] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,749] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:27:50,750] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,749] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:27:50,754] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,754] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:27:50,761] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,760] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:27:50,761] {logging_mixin.py:103} INFO - [2021-01-13 17:27:50,761] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:27:50,773] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.071 seconds
+[2021-01-13 17:29:06,676] {scheduler_job.py:181} INFO - Started process (PID=6439) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:29:06,678] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2021-01-13 17:29:06,679] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,679] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:29:06,709] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py
+[2021-01-13 17:29:06,711] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,710] {dag.py:1813} INFO - Sync 3 DAGs
+[2021-01-13 17:29:06,724] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,724] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:29:06,726] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,726] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:29:06,727] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,726] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:29:06,732] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,731] {dag.py:1813} INFO - Sync 2 DAGs
+[2021-01-13 17:29:06,738] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,738] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None
+[2021-01-13 17:29:06,739] {logging_mixin.py:103} INFO - [2021-01-13 17:29:06,739] {dag.py:2266} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None
+[2021-01-13 17:29:06,753] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/example_subdag_operator.py took 0.081 seconds

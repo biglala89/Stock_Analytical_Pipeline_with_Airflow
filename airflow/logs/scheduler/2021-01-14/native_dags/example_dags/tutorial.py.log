@@ -1,0 +1,91 @@
+[2021-01-13 17:22:26,842] {scheduler_job.py:181} INFO - Started process (PID=5759) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:22:26,844] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:22:26,845] {logging_mixin.py:103} INFO - [2021-01-13 17:22:26,845] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:22:26,857] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:22:26,859] {logging_mixin.py:103} INFO - [2021-01-13 17:22:26,859] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:22:26,876] {logging_mixin.py:103} INFO - [2021-01-13 17:22:26,875] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:22:26,899] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2021-01-13 17:23:33,188] {scheduler_job.py:181} INFO - Started process (PID=5894) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:23:33,190] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:23:33,191] {logging_mixin.py:103} INFO - [2021-01-13 17:23:33,191] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:23:33,206] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:23:33,208] {logging_mixin.py:103} INFO - [2021-01-13 17:23:33,208] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:33,231] {logging_mixin.py:103} INFO - [2021-01-13 17:23:33,231] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:23:33,250] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2021-01-13 17:23:58,462] {scheduler_job.py:181} INFO - Started process (PID=5970) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:23:58,464] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:23:58,466] {logging_mixin.py:103} INFO - [2021-01-13 17:23:58,465] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:23:58,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:23:58,482] {logging_mixin.py:103} INFO - [2021-01-13 17:23:58,481] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:58,503] {logging_mixin.py:103} INFO - [2021-01-13 17:23:58,502] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:23:58,520] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2021-01-13 17:24:23,711] {scheduler_job.py:181} INFO - Started process (PID=6052) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:24:23,712] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:24:23,714] {logging_mixin.py:103} INFO - [2021-01-13 17:24:23,713] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:24:23,726] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:24:23,728] {logging_mixin.py:103} INFO - [2021-01-13 17:24:23,728] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:24:23,747] {logging_mixin.py:103} INFO - [2021-01-13 17:24:23,746] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:24:23,762] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2021-01-13 17:24:49,990] {scheduler_job.py:181} INFO - Started process (PID=6091) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:24:49,991] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:24:49,993] {logging_mixin.py:103} INFO - [2021-01-13 17:24:49,992] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:24:50,005] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:24:50,007] {logging_mixin.py:103} INFO - [2021-01-13 17:24:50,006] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:24:50,025] {logging_mixin.py:103} INFO - [2021-01-13 17:24:50,024] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:24:50,040] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.054 seconds
+[2021-01-13 17:25:15,226] {scheduler_job.py:181} INFO - Started process (PID=6119) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:25:15,227] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:25:15,229] {logging_mixin.py:103} INFO - [2021-01-13 17:25:15,228] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:25:15,240] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:25:15,242] {logging_mixin.py:103} INFO - [2021-01-13 17:25:15,242] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:25:15,260] {logging_mixin.py:103} INFO - [2021-01-13 17:25:15,259] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:25:15,273] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.051 seconds
+[2021-01-13 17:25:41,517] {scheduler_job.py:181} INFO - Started process (PID=6147) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:25:41,519] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:25:41,521] {logging_mixin.py:103} INFO - [2021-01-13 17:25:41,520] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:25:41,534] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:25:41,536] {logging_mixin.py:103} INFO - [2021-01-13 17:25:41,536] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:25:41,557] {logging_mixin.py:103} INFO - [2021-01-13 17:25:41,557] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:25:41,574] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2021-01-13 17:26:08,592] {scheduler_job.py:181} INFO - Started process (PID=6183) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:08,593] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:26:08,594] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,594] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:08,607] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:08,609] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,609] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:26:08,629] {logging_mixin.py:103} INFO - [2021-01-13 17:26:08,629] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:26:08,645] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.057 seconds
+[2021-01-13 17:26:33,936] {scheduler_job.py:181} INFO - Started process (PID=6219) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:33,937] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:26:33,939] {logging_mixin.py:103} INFO - [2021-01-13 17:26:33,938] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:33,954] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:33,956] {logging_mixin.py:103} INFO - [2021-01-13 17:26:33,955] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:26:33,975] {logging_mixin.py:103} INFO - [2021-01-13 17:26:33,975] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:26:33,990] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.058 seconds
+[2021-01-13 17:26:59,172] {scheduler_job.py:181} INFO - Started process (PID=6263) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:59,174] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:26:59,175] {logging_mixin.py:103} INFO - [2021-01-13 17:26:59,175] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:59,187] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:26:59,189] {logging_mixin.py:103} INFO - [2021-01-13 17:26:59,189] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:26:59,209] {logging_mixin.py:103} INFO - [2021-01-13 17:26:59,208] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:26:59,223] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2021-01-13 17:27:23,801] {scheduler_job.py:181} INFO - Started process (PID=6302) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:27:23,803] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:27:23,805] {logging_mixin.py:103} INFO - [2021-01-13 17:27:23,804] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:27:23,816] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:27:23,817] {logging_mixin.py:103} INFO - [2021-01-13 17:27:23,817] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:27:23,836] {logging_mixin.py:103} INFO - [2021-01-13 17:27:23,835] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:27:23,851] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.054 seconds
+[2021-01-13 17:27:49,659] {scheduler_job.py:181} INFO - Started process (PID=6332) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:27:49,661] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:27:49,662] {logging_mixin.py:103} INFO - [2021-01-13 17:27:49,662] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:27:49,674] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:27:49,676] {logging_mixin.py:103} INFO - [2021-01-13 17:27:49,676] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:27:49,695] {logging_mixin.py:103} INFO - [2021-01-13 17:27:49,695] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:27:49,710] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2021-01-13 17:28:50,644] {scheduler_job.py:181} INFO - Started process (PID=6402) to work on /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:28:50,646] {scheduler_job.py:629} INFO - Processing file /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-01-13 17:28:50,648] {logging_mixin.py:103} INFO - [2021-01-13 17:28:50,647] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:28:50,664] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py
+[2021-01-13 17:28:50,667] {logging_mixin.py:103} INFO - [2021-01-13 17:28:50,666] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:28:50,689] {logging_mixin.py:103} INFO - [2021-01-13 17:28:50,688] {dag.py:2266} INFO - Setting next_dagrun for tutorial to 2021-01-12 00:00:00+00:00
+[2021-01-13 17:28:50,719] {scheduler_job.py:189} INFO - Processing /Users/chowli/.local/share/virtualenvs/marketvol-WbDfdy4N/lib/python3.7/site-packages/airflow/example_dags/tutorial.py took 0.080 seconds

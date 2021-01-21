@@ -1,0 +1,26 @@
+[2021-01-11 20:01:17,525] {taskinstance.py:826} INFO - Dependencies all met for <TaskInstance: MarketVol.create_tmp_folder 2021-01-12T03:00:00+00:00 [queued]>
+[2021-01-11 20:01:17,533] {taskinstance.py:826} INFO - Dependencies all met for <TaskInstance: MarketVol.create_tmp_folder 2021-01-12T03:00:00+00:00 [queued]>
+[2021-01-11 20:01:17,533] {taskinstance.py:1017} INFO - 
+--------------------------------------------------------------------------------
+[2021-01-11 20:01:17,533] {taskinstance.py:1018} INFO - Starting attempt 1 of 1
+[2021-01-11 20:01:17,533] {taskinstance.py:1019} INFO - 
+--------------------------------------------------------------------------------
+[2021-01-11 20:01:17,541] {taskinstance.py:1038} INFO - Executing <Task(BashOperator): create_tmp_folder> on 2021-01-12T03:00:00+00:00
+[2021-01-11 20:01:17,544] {standard_task_runner.py:51} INFO - Started process 63248 to run task
+[2021-01-11 20:01:17,552] {standard_task_runner.py:75} INFO - Running: ['airflow', 'tasks', 'run', 'MarketVol', 'create_tmp_folder', '2021-01-12T03:00:00+00:00', '--job-id', '47', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/stock_dags.py', '--cfg-path', '/var/folders/hy/5f75_vt15hb_bfkv9vvnx5sw0000gn/T/tmp8uxhn9ip']
+[2021-01-11 20:01:17,554] {standard_task_runner.py:76} INFO - Job 47: Subtask create_tmp_folder
+[2021-01-11 20:01:17,602] {logging_mixin.py:103} INFO - Running <TaskInstance: MarketVol.create_tmp_folder 2021-01-12T03:00:00+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2021-01-11 20:01:17,648] {taskinstance.py:1232} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=MarketVol
+AIRFLOW_CTX_TASK_ID=create_tmp_folder
+AIRFLOW_CTX_EXECUTION_DATE=2021-01-12T03:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-01-12T03:00:00+00:00
+[2021-01-11 20:01:17,649] {bash.py:135} INFO - Tmp dir root location: 
+ /var/folders/hy/5f75_vt15hb_bfkv9vvnx5sw0000gn/T
+[2021-01-11 20:01:17,650] {bash.py:158} INFO - Running command: mkdir -p ${AIRFLOW_HOME}/tmp/data/`date +'%Y-%m-%d'`
+[2021-01-11 20:01:17,659] {bash.py:169} INFO - Output:
+[2021-01-11 20:01:17,682] {bash.py:177} INFO - Command exited with return code 0
+[2021-01-11 20:01:17,708] {taskinstance.py:1142} INFO - Marking task as SUCCESS. dag_id=MarketVol, task_id=create_tmp_folder, execution_date=20210112T030000, start_date=20210112T040117, end_date=20210112T040117
+[2021-01-11 20:01:17,740] {taskinstance.py:1195} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2021-01-11 20:01:17,771] {local_task_job.py:118} INFO - Task exited with return code 0

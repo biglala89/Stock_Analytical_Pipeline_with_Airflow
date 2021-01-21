@@ -1,0 +1,119 @@
+[2021-01-13 17:22:54,616] {scheduler_job.py:181} INFO - Started process (PID=5823) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:22:54,617] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:22:54,619] {logging_mixin.py:103} INFO - [2021-01-13 17:22:54,618] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:22:54,976] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:22:54,977] {logging_mixin.py:103} INFO - [2021-01-13 17:22:54,976] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:22:54,993] {logging_mixin.py:103} INFO - [2021-01-13 17:22:54,992] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:22:55,003] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.391 seconds
+[2021-01-13 17:23:00,584] {scheduler_job.py:181} INFO - Started process (PID=5838) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:00,586] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:23:00,587] {logging_mixin.py:103} INFO - [2021-01-13 17:23:00,587] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:00,938] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:00,946] {logging_mixin.py:103} INFO - [2021-01-13 17:23:00,945] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:00,958] {logging_mixin.py:103} INFO - [2021-01-13 17:23:00,958] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:23:00,968] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.387 seconds
+[2021-01-13 17:23:10,138] {scheduler_job.py:181} INFO - Started process (PID=5861) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:10,140] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:23:10,142] {logging_mixin.py:103} INFO - [2021-01-13 17:23:10,141] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:10,495] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:10,503] {logging_mixin.py:103} INFO - [2021-01-13 17:23:10,503] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:10,517] {logging_mixin.py:103} INFO - [2021-01-13 17:23:10,517] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:23:10,528] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.393 seconds
+[2021-01-13 17:23:12,095] {scheduler_job.py:181} INFO - Started process (PID=5867) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:12,097] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:23:12,098] {logging_mixin.py:103} INFO - [2021-01-13 17:23:12,098] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:12,461] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:12,469] {logging_mixin.py:103} INFO - [2021-01-13 17:23:12,469] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:12,481] {logging_mixin.py:103} INFO - [2021-01-13 17:23:12,481] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:23:12,491] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.399 seconds
+[2021-01-13 17:23:15,161] {scheduler_job.py:181} INFO - Started process (PID=5874) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:15,164] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:23:15,166] {logging_mixin.py:103} INFO - [2021-01-13 17:23:15,166] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:15,583] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:15,593] {logging_mixin.py:103} INFO - [2021-01-13 17:23:15,592] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:15,614] {logging_mixin.py:103} INFO - [2021-01-13 17:23:15,613] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:23:15,627] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.469 seconds
+[2021-01-13 17:23:36,087] {scheduler_job.py:181} INFO - Started process (PID=5897) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:36,089] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:23:36,091] {logging_mixin.py:103} INFO - [2021-01-13 17:23:36,090] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:36,472] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:23:36,475] {logging_mixin.py:103} INFO - [2021-01-13 17:23:36,474] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:23:36,493] {logging_mixin.py:103} INFO - [2021-01-13 17:23:36,493] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:23:36,505] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.423 seconds
+[2021-01-13 17:24:01,558] {scheduler_job.py:181} INFO - Started process (PID=5998) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:01,559] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:24:01,561] {logging_mixin.py:103} INFO - [2021-01-13 17:24:01,560] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:01,912] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:01,914] {logging_mixin.py:103} INFO - [2021-01-13 17:24:01,913] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:24:01,929] {logging_mixin.py:103} INFO - [2021-01-13 17:24:01,928] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:24:01,939] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.385 seconds
+[2021-01-13 17:24:26,803] {scheduler_job.py:181} INFO - Started process (PID=6059) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:26,804] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:24:26,805] {logging_mixin.py:103} INFO - [2021-01-13 17:24:26,805] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:27,151] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:27,152] {logging_mixin.py:103} INFO - [2021-01-13 17:24:27,151] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:24:27,166] {logging_mixin.py:103} INFO - [2021-01-13 17:24:27,165] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:24:27,175] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.375 seconds
+[2021-01-13 17:24:52,327] {scheduler_job.py:181} INFO - Started process (PID=6094) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:52,329] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:24:52,330] {logging_mixin.py:103} INFO - [2021-01-13 17:24:52,330] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:52,662] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:24:52,663] {logging_mixin.py:103} INFO - [2021-01-13 17:24:52,662] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:24:52,678] {logging_mixin.py:103} INFO - [2021-01-13 17:24:52,677] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:24:52,689] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.366 seconds
+[2021-01-13 17:25:18,194] {scheduler_job.py:181} INFO - Started process (PID=6122) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:25:18,196] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:25:18,197] {logging_mixin.py:103} INFO - [2021-01-13 17:25:18,196] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:25:18,526] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:25:18,527] {logging_mixin.py:103} INFO - [2021-01-13 17:25:18,526] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:25:18,540] {logging_mixin.py:103} INFO - [2021-01-13 17:25:18,540] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:25:18,549] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.358 seconds
+[2021-01-13 17:25:44,493] {scheduler_job.py:181} INFO - Started process (PID=6150) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:25:44,494] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:25:44,497] {logging_mixin.py:103} INFO - [2021-01-13 17:25:44,495] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:25:44,849] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:25:44,850] {logging_mixin.py:103} INFO - [2021-01-13 17:25:44,850] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:25:44,868] {logging_mixin.py:103} INFO - [2021-01-13 17:25:44,867] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:25:44,879] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.390 seconds
+[2021-01-13 17:26:10,776] {scheduler_job.py:181} INFO - Started process (PID=6186) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:26:10,778] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:26:10,779] {logging_mixin.py:103} INFO - [2021-01-13 17:26:10,779] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:26:11,174] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:26:11,175] {logging_mixin.py:103} INFO - [2021-01-13 17:26:11,174] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:26:11,193] {logging_mixin.py:103} INFO - [2021-01-13 17:26:11,192] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:26:11,205] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.434 seconds
+[2021-01-13 17:26:36,604] {scheduler_job.py:181} INFO - Started process (PID=6222) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:26:36,605] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:26:36,607] {logging_mixin.py:103} INFO - [2021-01-13 17:26:36,606] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:26:36,950] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:26:36,951] {logging_mixin.py:103} INFO - [2021-01-13 17:26:36,950] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:26:36,965] {logging_mixin.py:103} INFO - [2021-01-13 17:26:36,965] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:26:36,975] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.375 seconds
+[2021-01-13 17:27:02,281] {scheduler_job.py:181} INFO - Started process (PID=6267) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:02,282] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:27:02,283] {logging_mixin.py:103} INFO - [2021-01-13 17:27:02,283] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:02,646] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:02,648] {logging_mixin.py:103} INFO - [2021-01-13 17:27:02,647] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:27:02,662] {logging_mixin.py:103} INFO - [2021-01-13 17:27:02,662] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:27:02,673] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.395 seconds
+[2021-01-13 17:27:26,501] {scheduler_job.py:181} INFO - Started process (PID=6305) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:26,504] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:27:26,505] {logging_mixin.py:103} INFO - [2021-01-13 17:27:26,505] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:26,835] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:26,837] {logging_mixin.py:103} INFO - [2021-01-13 17:27:26,836] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:27:26,850] {logging_mixin.py:103} INFO - [2021-01-13 17:27:26,850] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:27:26,859] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.362 seconds
+[2021-01-13 17:27:51,845] {scheduler_job.py:181} INFO - Started process (PID=6335) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:51,848] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:27:51,849] {logging_mixin.py:103} INFO - [2021-01-13 17:27:51,849] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:52,201] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:27:52,202] {logging_mixin.py:103} INFO - [2021-01-13 17:27:52,202] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:27:52,216] {logging_mixin.py:103} INFO - [2021-01-13 17:27:52,215] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T00:00:00+00:00
+[2021-01-13 17:27:52,225] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.384 seconds
+[2021-01-13 17:29:01,796] {scheduler_job.py:181} INFO - Started process (PID=6433) to work on /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:29:01,797] {scheduler_job.py:629} INFO - Processing file /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py for tasks to queue
+[2021-01-13 17:29:01,799] {logging_mixin.py:103} INFO - [2021-01-13 17:29:01,798] {dagbag.py:440} INFO - Filling up the DagBag from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:29:02,134] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['MarketVol']) retrieved from /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py
+[2021-01-13 17:29:02,142] {logging_mixin.py:103} INFO - [2021-01-13 17:29:02,141] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-13 17:29:02,153] {logging_mixin.py:103} INFO - [2021-01-13 17:29:02,152] {dag.py:2266} INFO - Setting next_dagrun for MarketVol to 2021-01-14T06:00:00+00:00
+[2021-01-13 17:29:02,176] {scheduler_job.py:189} INFO - Processing /Users/chowli/Documents/Springboard_DE/Projects/mini-projects/Airflow/marketvol/airflow/dags/stock_dags.py took 0.384 seconds

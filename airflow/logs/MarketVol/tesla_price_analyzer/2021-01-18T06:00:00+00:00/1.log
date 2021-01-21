@@ -1,0 +1,22 @@
+[2021-01-19 09:09:10,426] {{taskinstance.py:655}} INFO - Dependencies all met for <TaskInstance: MarketVol.tesla_price_analyzer 2021-01-18T06:00:00+00:00 [queued]>
+[2021-01-19 09:09:10,437] {{taskinstance.py:655}} INFO - Dependencies all met for <TaskInstance: MarketVol.tesla_price_analyzer 2021-01-18T06:00:00+00:00 [queued]>
+[2021-01-19 09:09:10,438] {{taskinstance.py:866}} INFO - 
+--------------------------------------------------------------------------------
+[2021-01-19 09:09:10,439] {{taskinstance.py:867}} INFO - Starting attempt 1 of 1
+[2021-01-19 09:09:10,440] {{taskinstance.py:868}} INFO - 
+--------------------------------------------------------------------------------
+[2021-01-19 09:09:10,450] {{taskinstance.py:887}} INFO - Executing <Task(BashOperator): tesla_price_analyzer> on 2021-01-18T06:00:00+00:00
+[2021-01-19 09:09:10,454] {{standard_task_runner.py:53}} INFO - Started process 367 to run task
+[2021-01-19 09:09:10,508] {{logging_mixin.py:112}} INFO - Running %s on host %s <TaskInstance: MarketVol.tesla_price_analyzer 2021-01-18T06:00:00+00:00 [running]> f2939e9d42e5
+[2021-01-19 09:09:10,523] {{bash_operator.py:82}} INFO - Tmp dir root location: 
+ /tmp
+[2021-01-19 09:09:10,526] {{bash_operator.py:105}} INFO - Temporary script location: /tmp/airflowtmpcle05e_w/tesla_price_analyzerxdrqfkop
+[2021-01-19 09:09:10,527] {{bash_operator.py:115}} INFO - Running command: python /usr/local/airflow/script/analyze.py --symbol TSLA
+[2021-01-19 09:09:10,536] {{bash_operator.py:122}} INFO - Output:
+[2021-01-19 09:09:10,922] {{bash_operator.py:126}} INFO - /usr/local/airflow/tmp/data/2021-01-19
+[2021-01-19 09:09:10,923] {{bash_operator.py:126}} INFO - Empty DataFrame
+[2021-01-19 09:09:10,924] {{bash_operator.py:126}} INFO - Columns: [Date, Open, High, Low, Close, Adj Close, Volume]
+[2021-01-19 09:09:10,924] {{bash_operator.py:126}} INFO - Index: []
+[2021-01-19 09:09:10,976] {{bash_operator.py:130}} INFO - Command exited with return code 0
+[2021-01-19 09:09:10,984] {{taskinstance.py:1048}} INFO - Marking task as SUCCESS.dag_id=MarketVol, task_id=tesla_price_analyzer, execution_date=20210118T060000, start_date=20210119T090910, end_date=20210119T090910
+[2021-01-19 09:09:20,380] {{logging_mixin.py:112}} INFO - [2021-01-19 09:09:20,379] {{local_task_job.py:103}} INFO - Task exited with return code 0
