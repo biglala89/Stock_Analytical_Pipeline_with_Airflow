@@ -1,13 +1,19 @@
-## Stock-Pipeline_with-Airflow
+## Stock-Pipeline-Airflow
 
 ### Objective
-The goal of this mini project is to use airflow DAG to automate the authoring, scheduling and monitoring a data pipeline for a few stocks that are publicly trading on the stock market and analyze their trend and behaviors.
+The goal is to use airflow DAG to automate the authoring, scheduling and monitoring a data pipeline for a few stocks that are publicly trading on the stock market and analyze their trend and behaviors.
 
 To run the program, consider using a docker image configured for running airflow jobs. 
 
 First, pull the image from docker hub using this command: 
 ```bash
 docker pull puckel/docker-airflow
+```
+
+Second, clone the repo and cd into the directory:
+```bash
+git clone https://github.com/biglala89/Stock_Analytical_Pipeline_with_Airflow.git
+cd Stock_Analytical_Pipeline_with_Airflow/airflow
 ```
 
 To run the container, use the following command:
